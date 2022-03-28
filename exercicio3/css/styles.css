@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    height: 100px;
+}
+
+.topRounded {
+    background-color: black;
+    border-radius: 30px;
+    color: white;
+    text-transform: uppercase;
+    text-align: right;
+    margin: 30px;
+    padding: 20px;
+}
+
+.bottomSquare {
+    background-color: black;
+    border: 5px solid red;
+    color: white;
+    text-transform: lowercase;
+    text-align: left;
+    margin: 30px;
+    padding: 20px;
+    overflow: auto;
+}

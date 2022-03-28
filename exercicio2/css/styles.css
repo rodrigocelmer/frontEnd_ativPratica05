@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+}
+
+.top-left {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.top-right {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+.bottom-left {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+.bottom-right {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}

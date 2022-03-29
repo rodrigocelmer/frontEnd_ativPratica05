@@ -1,0 +1,58 @@
+body {
+    background-color: gray;
+}
+
+div {
+    color: white;
+}
+
+.topLeft1 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 350px;
+}
+
+.topLeft2 {
+    width: 250px;
+}
+
+.bottomRight1 {
+    width: 100px;
+    float: right;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.bottomRight2 {
+    width: 100px;
+    float: right;
+    position: fixed;
+    bottom: 0px;
+    right: 110px;
+}
+
+.bottomRight3 {
+    width: 100px;
+    float: right;
+    position: fixed;
+    bottom: 0px;
+    right: 220px;
+}
+
+.quad1, .quad2, .quad3, .quad4, .quad5, .quad6 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    float: left;
+}
+
+.quad7, .quad8, .quad9, .quad10, .quad11, .quad12 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    float: right;
+}
